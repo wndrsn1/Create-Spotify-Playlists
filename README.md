@@ -5,5 +5,7 @@ This program works similarly to how Spotify creates user playlists. The program 
 It utilizes Spotipy and the Spotify Developer API which can be found here: https://developer.spotify.com/
 
 Create a Spotify Developer account
+
 Add an app with access to Web API and Web Playback SDK
+
 Add Client ID, Client Secret, and return URI to the config.py file
